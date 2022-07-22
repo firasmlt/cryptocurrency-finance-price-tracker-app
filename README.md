@@ -2,5 +2,7 @@
 
 This is a Cryptocurrency price tracking Web App I've built using ReactJS and Axios.
 all the information are coming from a third party API.
+link:
+https://cryptocurrency-tracker-by-firas-melliti.netlify.app/
 
 enjoy:)
